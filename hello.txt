@@ -1,3 +1,5 @@
 hello git
 
 hello git again
+
+now the branch is on the hot-fix.
