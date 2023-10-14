@@ -1,8 +1,9 @@
 master line1
-master line2
-master line3
-master line4
 master line5
+hot-fix line3
+hot-fix line4
+hot-fix line5
+hot-fix line6
 hello git
 
 hello git again
